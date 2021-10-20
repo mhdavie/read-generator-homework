@@ -1,0 +1,26 @@
+{
+  "name": "read-generator-homework",
+  "version": "1.0.0",
+  "description": "This a CLI or command line interface application uses Node.js, which is a back-end JavaScript runtime environment, in other words it allows execution of our code outside a web-browser. This application also utilizes npm or node package manaer, which is a software registry or a library of helpful application. I learned modularization (require() and module.exports) and using Inquirers as well as some other npm packages (fs & path).",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.0",
+    "node": "^16.11.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdavie/read-generator-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhdavie/read-generator-homework/issues"
+  },
+  "homepage": "https://github.com/mhdavie/read-generator-homework#readme"
+}
