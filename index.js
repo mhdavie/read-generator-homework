@@ -22,6 +22,8 @@ const questions = [
         message: 'What is the description of your application?'
 
     }
+
+    
 ]
 // write to file and create the file 
 // function to write the README file from the given input

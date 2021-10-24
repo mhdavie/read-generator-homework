@@ -22,6 +22,41 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   * [${data.description}](#${data.description})
+  * [${data.Installation}](#${data.Installation})
+  * [${data.usage}](#${data.usage})
+  * [${data.license}](#${data.license})
+  * [${data.respository}](#${data.repository})
+  * [${data.link}](#${data.link})
+  
+
+## Installation
+${data.Installation}
+
+## Usage
+${data.usage}
+
+## License
+${data.license}
+
+## GitHub Repository
+${data.repository}
+
+## Deployed Link
+${data.link}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 `;
 }
