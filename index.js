@@ -21,9 +21,35 @@ const questions = [
         name: 'description',
         message: 'What is the description of your application?'
 
-    }
+    },
+    {
+        type: "input",
+        name: "installation",
+        message: "Please provide the installation instructions"
+    },
+    {
+        type: "input",
+        name: "usage",
+        message: "Please provide the project usage"
+    },
+    {
+        type: "input",
+        name: "licence",
+        message: "Please provide the project licence or your badge link"
+    },
+    {
+        type: "input",
+        name: "repo",
+        message: "What is your github link?"
+    },
+    {
+        type: "input",
+        name: "repo",
+        message: "What is your deployed link?"
+    },
 
-    
+
+
 ]
 // write to file and create the file 
 // function to write the README file from the given input
