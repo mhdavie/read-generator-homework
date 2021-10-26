@@ -17,6 +17,11 @@ const questions = [
 
     },
     {
+        type: "input",
+        name: "license",
+        message: "Please provide the project license or your badge link"
+    },
+    {
         type: 'input',
         name: 'description',
         message: 'What is the description of your application?'
@@ -32,19 +37,15 @@ const questions = [
         name: "usage",
         message: "Please provide the project usage"
     },
+   
     {
         type: "input",
-        name: "licence",
-        message: "Please provide the project licence or your badge link"
-    },
-    {
-        type: "input",
-        name: "repo",
+        name: "repository",
         message: "What is your github link?"
     },
     {
         type: "input",
-        name: "repo",
+        name: "link",
         message: "What is your deployed link?"
     },
 
