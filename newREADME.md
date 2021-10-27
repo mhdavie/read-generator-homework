@@ -1,48 +1,36 @@
 
-  
-  ## mariana
+ 
+ ![APM](https://img.shields.io/apm/l/vim-mode)
 
-  ##  link
+ ## Title
 
-  ## Table of Contents
-  * [Description](#mafianas applicaion description)
-  * [Installation](#installe npm)
-  * [Usage](#its used to created a new read me file)  
+ **Readme Generator**
+
+
+ ## Table of Contents
+
+ 
+  * [Description](#its a readme file generator)
+  * [Installation](#run npm intall to install packages)
+  * [Usage](#its use to generate readme files)  
   * [GitHub Repository](#https://github.com/mhdavie/read-generator-homework)
   * [Deployed Link](#https://mhdavie.github.io/Portfolio--Mariana-Davie-/)
-  * [Application](#undefined)
-
-  ## Description
-  mafianas applicaion description  
   
 
-## Installation
-installe npm
+## Description
+its a readme file generator  
+  
+
+ ## Installation
+run npm intall to install packages
 
 ## Usage
-its used to created a new read me file
+ its use to generate readme files
 
 
 ## GitHub Repository
 https://github.com/mhdavie/read-generator-homework
 
-## Deployed Link
-https://mhdavie.github.io/Portfolio--Mariana-Davie-/
-
-## Apllication
-undefined
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ ## Deployed Link
+ https://mhdavie.github.io/Portfolio--Mariana-Davie-/
 
