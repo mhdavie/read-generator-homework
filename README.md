@@ -1,3 +1,7 @@
+![Badge for GitHub](https://img.shields.io/github/languages/top/mhdavie/read-generator-homework?style=flat&logo=appveyor) 
+
+
+
 # README Generator
 
 ## Description 
@@ -10,12 +14,20 @@ This a CLI or command line interface application uses Node.js, which is a back-e
 * [Application](#application)
 * [Technologies](#technologies)
 
-## Application 
 
-gif here
 
 ## Technologies 
 
 * Node.js
 * NPM
 * inquirer
+
+## GitHub Repository
+https://github.com/mhdavie/read-generator-homework
+
+## Deployed Link
+https://github.com/mhdavie/read-generator-homework
+
+## Application 
+
+

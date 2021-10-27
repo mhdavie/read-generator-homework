@@ -41,7 +41,7 @@ const questions = [
     {
         type: "input",
         name: "repository",
-        message: "What is your github link?"
+        message: "What is the link for this repo?"
     },
     {
         type: "input",
@@ -64,6 +64,7 @@ function init() {
     inquirer.prompt(questions).then((Responses) => {
         writeToFile('newREADME.md', generateMarkdown({ ...Responses}))
         // writeToFile(../fileName), data)
+        console.log("README file successfully created!")
     })
 }
 
