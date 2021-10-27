@@ -25,8 +25,9 @@ This a CLI or command line interface application uses Node.js, which is a back-e
 ## GitHub Repository
 https://github.com/mhdavie/read-generator-homework
 
-## Deployed Link
-https://github.com/mhdavie/read-generator-homework
+## Walkthrough Video
+
+https://watch.screencastify.com/v/GUnzAbI3cK1P9sPvrqFD
 
 ## Application 
 
