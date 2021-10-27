@@ -31,4 +31,4 @@ https://watch.screencastify.com/v/GUnzAbI3cK1P9sPvrqFD
 
 ## Application 
 
-
+![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](assets/walkthroughvideo.gif)
